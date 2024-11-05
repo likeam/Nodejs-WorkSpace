@@ -12,3 +12,5 @@ console.log(path.join("c:", "hania", "mavia", "rehman", ".."));
 console.log(path.join("c:", "hania", "mavia", "rehman", "..", ".."));
 
 console.log(path.normalize("c:\\desk\\\\stor"));
+
+console.log(path.parse("c:\nodejsindex.js"));
